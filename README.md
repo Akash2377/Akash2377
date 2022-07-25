@@ -1,4 +1,7 @@
+![68747470733a2f2f7777772e7265616465726d61737465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31312f636c69636b2d686572652e676966](https://user-images.githubusercontent.com/103267138/180703685-784331a2-e2d8-48db-9dca-4bf94ea7ef6d.gif)
+
 ### Hi there 👋
+
 
 <!--
 **Akash2377/Akash2377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
