@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi there! I'm Akash Surve <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h2 align="center">Currently Learning Full-Stack Web Development from Masai School </h2>
-
+ <br>
+   
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+  <br>
+   
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 My Portfolio - **[Akash Surve]()**
@@ -61,16 +64,22 @@
 </p>
 <h2>📊 Github Stats</h2>
 <br/>
-<p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Akash2377&theme=dark" /> <br \>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash2377&show_icons=true&locale=en&theme=dark"/>
-</p>
 
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Akash2377&show_icons=true&theme=dark" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash2377&layout=compact&theme=dark" />
+</div>
+<!-- <br />
+<img src="https://activity-graph.herokuapp.com/graph?username=Akash2377&theme=minimal" alt="activitygraph&theme=dark" /> -->
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash2377&theme=dark" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Akash2377&theme=dark" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash2377&theme=vue" alt="summarycard"/> </p>
+<hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
 </h3>
 <br>
-
 <h3 align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/Akash2377/count.svg" />
