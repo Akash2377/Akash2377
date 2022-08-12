@@ -75,7 +75,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Akash2377&theme=minimal" alt="activitygraph&theme=dark" /> -->
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash2377&theme=dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Akash2377&theme=dark" alt=""/> </p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Akash2377&theme=vue" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash2377&theme=vue" alt="summarycard"/> </p>
 <hr />
 <h3 align="center">
