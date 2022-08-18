@@ -7,7 +7,7 @@
    
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 My Portfolio - **[Akash Surve]()**
+- 👨‍💻 My Portfolio - **[Akash Surve](https://akashsurve2377.netlify.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/akashsurve/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a title="surveakash01@gmail.com" href="mailto:surveakash01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://wa.me/918668458742" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
-  <a href="https://akashsurve.web.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+  <a href="https://akashsurve2377.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 
 <h2>📊 Github Stats</h2>
