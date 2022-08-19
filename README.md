@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate for `Projects`
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
 
 - 💓 I love designing websites and coding.
 
