@@ -4,18 +4,26 @@
    
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
-   
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+   ## 👨🏻‍💻 About Me:
 
-- 👨‍💻 My Portfolio - **[Akash Surve](https://akashsurve2377.netlify.app/)**
+<img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="290px" align="right" />
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🙋‍♂️ All about me is at **[My Website](https://akashsurve2377.netlify.app/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Projects`
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- 💓 I love designing websites and coding.
 
 - 📫 How to reach me **surveakash01@gmail.com**
 
+<br>
 
-
-<br/>
 
 <h2><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
 
