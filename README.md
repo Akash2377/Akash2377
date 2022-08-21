@@ -66,7 +66,7 @@
  <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=Akash2377&theme=rogue" alt="activitygraph" /> 
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash2377&theme=midnight-purple" alt=""/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash2377&theme=vision-friendly-dark" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Akash2377&theme=vue" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash2377&theme=tokyonight" alt="summarycard"/> </p>
 <hr />
