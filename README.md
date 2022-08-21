@@ -63,11 +63,11 @@
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash2377&layout=compact&theme=dark" />
 </div>
  <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=Akash2377&theme=react-dark" alt="activitygraph" /> 
+<img src="https://activity-graph.herokuapp.com/graph?username=Akash2377&theme=rogue" alt="activitygraph" /> 
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash2377&theme=dark" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Akash2377&theme=vue" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash2377&theme=vue" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash2377&theme=tokyonight" alt="summarycard"/> </p>
 <hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
