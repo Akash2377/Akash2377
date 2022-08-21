@@ -60,8 +60,8 @@
 <br/>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Akash2377&show_icons=true&theme=dark" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash2377&layout=compact&theme=dark" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Akash2377&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash2377&layout=compact&theme=midnight-purple" />
 </div>
  <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=Akash2377&theme=rogue" alt="activitygraph" /> 
