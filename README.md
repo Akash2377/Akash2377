@@ -52,8 +52,6 @@
   <a href="https://akashsurve2377.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
     <a href="https://twitter.com/AkashSurve2377" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a>
 </p>
-
-
 <h2>📊  Github Stats</h2>
 <br/>
 
