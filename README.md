@@ -71,6 +71,6 @@
 <br>
 <h3 align="center"> 
   Visitor count <br><br>
-  <img src="https://profile-counter.glitch.me/Akash2377/count.svg" />
+  <img height="20px" src="https://profile-counter.glitch.me/Akash2377/count.svg" />
 </h3>
 
