@@ -45,7 +45,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/akashsurve/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="surveakash01@gmail.com" href="mailto:surveakash01@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="https://wa.me/918668458742" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+<!--   <a href="https://wa.me/918668458742" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a> -->
   <a href="https://akashsurve2377.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
     <a href="https://twitter.com/AkashSurve2377" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a>
 <a href="https://leetcode.com/Akash2377/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" /></a>
